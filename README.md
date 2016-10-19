@@ -1,2 +1,2 @@
 # EstudosAndroid
-Estudos de ndroid
+Estudos de Android
